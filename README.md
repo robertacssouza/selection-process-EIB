@@ -33,10 +33,10 @@ Creation the test data necessary to test one of the requirements.
 Given a HTLM file that contained the elements necessary to create test scripts regarding the test scenarios. 
 
 - **Question 2:**
-Creation of test script that the objective was to select radio buttons randomly either Yes or No for each of the questions on the page (they provided HTML file).
+Creation of test script that the objective was to select radio buttons randomly either Yes or No for each of the questions on the page (they provided a HTML file).
 
 - **Question 3:**
-Creation of test script that the objective was to select the 5th element of a dropdown list.
+Creation of test script that the objective was to select the 5th element of a dropdown list(they provided an image of the html file).
 
 
 
