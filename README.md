@@ -11,7 +11,8 @@ The exam was divided in two parts: Manual and Automation testing.
 **Context:** E-commerce application project that would be developed in the Waterfall methodology and would be delivered in two phases. 
 
 - **Question 1:** 
-Test strategy that I would apply for the first phase. 
+Test strategy that I would apply for the first phase.
+Link to see the my solution: https://github.com/robertacssouza/selection-process-EIB/blob/main/Test-Strategy.md
 
 - **Question 2:** 
 For one module at my choice: the test plan that I would define to cover the functionalities that would be delivered in the first phase.
