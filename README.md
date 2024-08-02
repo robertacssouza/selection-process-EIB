@@ -34,13 +34,13 @@ Click on the link to see the solution -->[Data set](https://github.com/robertacs
 
 - **Question 1:**
 Given a HTLM file that contained the elements necessary to create test scripts regarding the test scenarios. 
-
+Click on the links to see the solution -->[LoginPage.java](https://github.com/robertacssouza/selection-process-EIB/blob/main/LoginPage.java) /
+                                         [LoginTest.java](https://github.com/robertacssouza/selection-process-EIB/blob/main/LoginTest.java)
 - **Question 2:**
 Creation of test script that the objective was to select radio buttons randomly either Yes or No for each of the questions on the page (they provided a HTML file).
-
+Click on the links to see the solution --> [QuestionnairePage.java](https://github.com/robertacssouza/selection-process-EIB/blob/main/QuestionnairePage.java) /
+                                          [QuestionnaireTest.java](https://github.com/robertacssouza/selection-process-EIB/blob/main/QuestionnaireTest.java)
 - **Question 3:**
 Creation of test script that the objective was to select the 5th element of a dropdown list(they provided an image of the html file).
-
-
-
-
+Click on the links to see the solution --> [QuestionnairePage.java](https://github.com/robertacssouza/selection-process-EIB/blob/main/QuestionnairePage.java) /
+                                          [QuestionnaireTest.java](https://github.com/robertacssouza/selection-process-EIB/blob/main/QuestionnaireTest.java)
