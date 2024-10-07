@@ -1,4 +1,4 @@
-# Result of the Selection Process - European Investment Bank (EIB)
+# Result of the Selection Process 
 
 ### Description
 This repository contains the answers and code developed during the selection process for the EIB to the MANUAL & AUTOMATION TESTER position.
@@ -13,7 +13,6 @@ The exam was divided in two parts: Manual and Automation testing.
 - **Question 1:** 
 Test strategy that I would apply for the first phase.
 Click on the link to see the solution --> [Test Strategy](https://github.com/robertacssouza/selection-process-EIB/blob/main/Test-Strategy.md)
-
 - **Question 2:** 
 For one module at my choice: the test plan that I would define to cover the functionalities that would be delivered in the first phase.
 Click on the link to see the solution -->[Test Plan for the E-Store Module - Phase 1](https://github.com/robertacssouza/selection-process-EIB/blob/main/Test-Plan_e-store_phase1.md)
